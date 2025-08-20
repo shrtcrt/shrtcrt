@@ -7,8 +7,8 @@ Developer
 I have been writing code for quite a few years and have worked across many industries and have used many technologies from front end to backend.
 
 *   🌍  I'm based in Las Vegas, NV
-*   🚀  I'm currently working on [Tools to improve private jet aviation](http://www.flythrive.com)
-*   🧠  I'm learning Blazer, .net MAUI### Skills 
+*   🚀  I'm currently working on [Tools for public transportation](http://www.rtcsnv.com)
+*   🧠  I'm mainly work with C#, .Net, Blazor and SQL Server 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
